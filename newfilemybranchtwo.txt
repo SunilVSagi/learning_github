@@ -1,1 +1,1 @@
-New file in mybranch two
+Conflict in new file mybanch two
