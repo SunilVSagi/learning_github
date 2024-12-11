@@ -1,3 +1,5 @@
 Second Conflict in new file mybanch two
 
-Making chanes in local
+Making changes in local
+
+Making changes in github
