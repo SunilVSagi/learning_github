@@ -1,1 +1,1 @@
-Conflict in new file mybanch two
+Second Conflict in new file mybanch two
